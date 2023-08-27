@@ -1,7 +1,7 @@
 # Pharmacy-System
 The Pharmacy System project addresses the potential adverse interactions between different drugs and their impacts on diseases. It aims to provide healthcare professionals with information to make informed prescription decisions.
 
-## <img width="20" height="20" src="https://img.icons8.com/dotty/80/41b883/overview-pages-2.png" alt="overview-pages-2"/> Overview
+## <img width="25" height="25" src="https://img.icons8.com/dotty/80/41b883/overview-pages-2.png" alt="overview-pages-2"/> Overview
 In this project, you will find four different datasets, each containing the following information:
 
 - **Dataset 1**: Contains information about drug names and their prices.
