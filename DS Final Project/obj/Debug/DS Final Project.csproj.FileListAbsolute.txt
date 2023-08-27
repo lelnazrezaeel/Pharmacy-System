@@ -1,0 +1,7 @@
+E:\University\Term5\DS\Project2\DS-Project\DS Final Project\bin\Debug\DS Final Project.exe.config
+E:\University\Term5\DS\Project2\DS-Project\DS Final Project\bin\Debug\DS Final Project.exe
+E:\University\Term5\DS\Project2\DS-Project\DS Final Project\bin\Debug\DS Final Project.pdb
+E:\University\Term5\DS\Project2\DS-Project\DS Final Project\obj\Debug\DS Final Project.csproj.AssemblyReference.cache
+E:\University\Term5\DS\Project2\DS-Project\DS Final Project\obj\Debug\DS Final Project.csproj.CoreCompileInputs.cache
+E:\University\Term5\DS\Project2\DS-Project\DS Final Project\obj\Debug\DS Final Project.exe
+E:\University\Term5\DS\Project2\DS-Project\DS Final Project\obj\Debug\DS Final Project.pdb
